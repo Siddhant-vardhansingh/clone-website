@@ -55,3 +55,12 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Siddhant-vardhansingh&show_icons=true&title_color=00a6ff&icon_color=ffbb00&text_color=000000&bg_color=ffffff" alt="Pramod's Github Stats" width="450px">
   </p>
 </div> -->
+
+## Technologies used
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></li>
+<li><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></li>
+<li><a href="https://en.wikipedia.org/wiki/PHP">PHP</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Django">Django</a></li>
