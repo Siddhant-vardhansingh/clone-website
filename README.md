@@ -4,6 +4,7 @@ I am currently a student of Electronics And Communication Engineering at Shri Ma
 
 ## Hi there, I'm Hritik Saxena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 I am currently a student of Electrical Engineering at Shri Mata Vaishno Devi University.
+<br><br>
 
 <!--
 **Siddhant-vardhansingh/Siddhant-vardhansingh is a special repository. Its README.md will appear on your public profile!
