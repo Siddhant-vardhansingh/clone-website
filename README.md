@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach Hritik Saxena
 
 <a href="https://twitter.com/HritikS36741410"><img src="https://img.icons8.com/fluent/100/000000/twitter.png"/></a> 
+<a href="https://www.linkedin.com/in/siddhant-vardhan-singh-98288619b/"><img src="https://img.icons8.com/fluent/100/000000/linkedin.png"/></a> 
 <a href="mailto:19bee014@smvdu.ac.in"><img src="https://img.icons8.com/color/100/000000/gmail--v2.png"/></a> 
 <a href="https://www.instagram.com/i._am._hritik/"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png"/></a>
 <!-- <a href="https://www.linkedin.com/in/siddhant-vardhan-singh-98288619b/"><img src="https://img.icons8.com/fluent/100/000000/linkedin.png"/></a>  -->
